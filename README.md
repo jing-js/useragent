@@ -1,5 +1,7 @@
 # useragent - high performance user agent parser for Node.js
 
+> Forked from [3rd-Eden/useragent](https://github.com/3rd-Eden/useragent). Drop `request` module when update.
+
 Useragent originated as port of [browserscope.org][browserscope]'s user agent
 parser project also known as ua-parser. Useragent allows you to parse user agent
 string with high accuracy by using hand tuned dedicated regular expressions for
